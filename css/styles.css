@@ -1,4 +1,8 @@
-.green-background {
+
+function Namer() {
+        sampleName = "Cindy Lou"
+      }
+      .green-background {
        background-color: green;
      }
 
