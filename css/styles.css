@@ -1,17 +1,11 @@
-body {
-  background-color: yellow;
-}
-image{
-  border: width:50% height 200px;
-}
-.walrus-showing {
-  display: none;
-}
-p {
-cursor: pointer;
-color: #0088cc;
-}
+.green-background {
+       background-color: green;
+     }
 
-p:hover {
-text-decoration: underline;
-}
+     .yellow-background {
+       background-color: yellow;
+     }
+
+     .red-background {
+       background-color: red;
+     }
